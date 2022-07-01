@@ -1,0 +1,15 @@
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\bin\Debug\net5.0\K11.Application.Encuenta.deps.json
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\bin\Debug\net5.0\K11.Application.Encuenta.dll
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\bin\Debug\net5.0\K11.Application.Encuenta.pdb
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\bin\Debug\net5.0\K11.Repository.Encuenta.dll
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\bin\Debug\net5.0\K11.Repository.Encuenta.pdb
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\obj\Debug\net5.0\K11.Application.Encuenta.csproj.AssemblyReference.cache
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\obj\Debug\net5.0\K11.Application.Encuenta.GeneratedMSBuildEditorConfig.editorconfig
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\obj\Debug\net5.0\K11.Application.Encuenta.AssemblyInfoInputs.cache
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\obj\Debug\net5.0\K11.Application.Encuenta.AssemblyInfo.cs
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\obj\Debug\net5.0\K11.Application.Encuenta.csproj.CoreCompileInputs.cache
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\obj\Debug\net5.0\K11.Application.Encuenta.csproj.CopyComplete
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\obj\Debug\net5.0\K11.Application.Encuenta.dll
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\obj\Debug\net5.0\refint\K11.Application.Encuenta.dll
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\obj\Debug\net5.0\K11.Application.Encuenta.pdb
+E:\K11\prueba-tecnica-k11\code\k11.test.code\K11.Application.Encuenta\obj\Debug\net5.0\ref\K11.Application.Encuenta.dll
